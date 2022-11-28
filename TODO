@@ -1,0 +1,13 @@
+~=~=~=~=~=~=~=~=~=~
+~=~ To Do  List ~=~
+~=~=~=~=~=~=~=~=~=~
+
+FIX / Improve:
+- More exception handling
+- More logging
+- Assign a default timeout (10s) to requests session
+
+New features:
+- DNS Records
+- Zone transfer
+- RAT finder
