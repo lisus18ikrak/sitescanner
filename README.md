@@ -11,13 +11,15 @@
 
 You can download the latest version by cloning the GitHub repository:
 
-	git clone https://github.com/WhiteOnBlackCode/Domainator
+	git clone https://github.com/lisus18ikrak/sitescanner.git
+	
+	
 
 Alternatively download a ZIP file containing the repository.
 
 ### Install requirements
 
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
 
 ### Usage
 
