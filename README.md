@@ -29,11 +29,19 @@ Alternatively download a ZIP file containing the repository.
 
 ### features
 
-###   Passive:-
+##   Passive:-
 #####  Whois Lookup
 #####  Reverse IP Lookup        
 
 
 
-###   Active
+##   Active:-
+##### Grab Headers & CloudFlare
+##### Site Speed Check
+##### Sub-domains Scan
+##### Links Crawler
+##### Admin Panel Search
+
+## Regards-:)🇳🇵
+
 
